@@ -1,5 +1,5 @@
 application: gae-go-181202
-version: helloworld
+version: auth
 runtime: go
 api_version: go1
 handlers:
