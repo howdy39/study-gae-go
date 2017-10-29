@@ -20,12 +20,16 @@ brew install go-app-engine-64
 
 
 
+# environment settings
+```
+export PROJECT_ID=hogehoge 
+```
 
 
 
 
 # list
-## auth
+## auth, mail
 [たったの15分でできるGAE/GO入門 標準APIその1](http://www.apps-gcp.com/gae-go-gettingstart-02/)
 
 ## helloworld

@@ -1,7 +1,5 @@
-application: gae-go-181202
-version: helloworld
 runtime: go
-api_version: go1
+api_version: go1.8
 handlers:
 - url: /.*
   script: _go_app
