@@ -35,4 +35,5 @@ export PROJECT_ID=hogehoge
 ## helloworld
 [PaaS最前線！たったの15分でできるGAE/GO入門！](https://apps-gcp-tokyo.appspot.com/gae-go-gettingstart-01/)
 
-
+## autoscale, basicscale
+[GAEのautomatic scalingとbasic scalingを徹底比較！！｜](http://www.apps-gcp.com/gae_scaling_comparison/)
